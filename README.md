@@ -37,7 +37,7 @@ cd siesta-4.1-b4/Obj
 sh ../Src/obj_setup.sh
 ```
 
-# PASO INTERMEDIO:INSTALAR gfortran si no se tiene.
+### PASO INTERMEDIO:INSTALAR gfortran si no se tiene.
 
 **comando:**
 ```bash
