@@ -103,7 +103,7 @@ cp ../siesta-4.1-b4/Obj/siesta .
 ```bash
 ./siesta <h2.fdf > H.output
 ```
-### Paso 5 EL RESULTADO GENERARÁ LOS SIGUIENTES DIRECTORIOS:
+### Paso 5 EL RESULTADO GENERARÁ LOS SIGUIENTES ARCHIVOS:
 **comando:**
 ```bash
 0_NORMAL_EXIT          CLOCK         H.ion      H.psf            MESSAGES             PARALLEL_DIST  fdf-63183.log   h2.DM   h2.KP          h2.XV   siesta
